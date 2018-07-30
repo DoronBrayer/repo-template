@@ -1,15 +1,20 @@
 {
-    "name": "GitHub repository template",
-    "version": "1.0.0",
-    "description": "A template for almost any GitHub project",
-    "author": "Doron Brayer",
-    "license": "",
-    "private": true,
-    "scripts": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DoronBrayer/repo-template"
-    },
-    "dependencies": {},
-    "devDependencies": {}
+  "name": "GitHub repository template",
+  "version": "1.0.0",
+  "description": "A basic template for a new GitHub project.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Doron Brayer <doronbrayer@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo-name/issues",
+    "email": "dummy@nada.com"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zurb/foundation-sites-template.git"
+  },
+  "private": true
 }
