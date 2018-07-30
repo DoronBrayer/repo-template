@@ -7,6 +7,7 @@ dist/
 *.log
 *.swp
 *.pyc
-.vscode
+*.svn
+*.git
 package-lock.json
 yarn.lock
