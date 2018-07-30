@@ -1,14 +1,14 @@
-# Ignore docs files
+# Docs files
 docs/
 documentation/
 
-# Ignore ruby files
+# Ruby files
 .ruby-version
 .bundle
 vendor/cache
 vendor/bundle
 
-# Numerous always-ignore extensions
+# Special extensions
 *.diff
 *.err
 *.log
@@ -32,7 +32,7 @@ vendor/bundle
 *.exe
 *~
 
-# OS or Editor folders
+# OS or code-editor folders
 ._*
 .cache
 .DS_Store
@@ -47,6 +47,6 @@ nbproject/
 Thumbs.db
 .vscode/
 
-# Folders to ignore
+# Others
 bower_components/
 node_modules/
