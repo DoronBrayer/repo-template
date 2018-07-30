@@ -47,6 +47,8 @@ nbproject/
 Thumbs.db
 .vscode/
 
-# Others
+# Node.js dependencies
+package-lock.json
+yarn.lock
 bower_components/
 node_modules/
