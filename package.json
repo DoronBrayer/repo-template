@@ -1,29 +1,27 @@
 {
-  "name": "GitHub repository template",
+  "name": "My awesome package",
   "version": "1.0.0",
-  "description": "A basic template for a new GitHub project.",
+  "description": "A short description of my awesome package.",
+  "keywords": ["github", "repo", "repository", "project", "template", "structure"],
+  "license": "MIT",
+  "homepage": "https://your-package.org",
+  "bugs": "https://github.com/username/repo/issues",
+  "repository": { "type": "git", "url": "https://github.com/username/repo.git" },
+  "author": "Your Name <you@example.com> (http://your-website.com)",
+  "contributors": [
+    "Your Friend <friend@example.com> (http://friends-website.com)",
+    "Other Friend <other@example.com> (http://other-website.com)"
+  ],
   "main": "index.js",
   "scripts": {},
-  "author": "Doron Brayer <doronbrayer@hotmail.com> (http://doronbrayer.html-5.me/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/username/repo-name/issues",
-    "email": "dummy@nada.com"
+  "dependencies": {
+    "package-01": "^3.1.4",
+    "package-02": "^2.0.3"
   },
-  "dependencies": {},
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/DoronBrayer/repo-template.git"
+  "devDependencies": {
+    "package-abc": "^4.2.5",
+    "package-xyz": "^5.3.6"
   },
-  "homepage": "https://www.project-name.com",
-  "keywords": [
-    "repo",
-    "project",
-    "template",
-    "structure",
-    "github",
-    "repository"
-  ],
   "private": true
 }
+//MORE INFO: https://yarnpkg.com/lang/en/docs/package-json AND http://npm.github.io/using-pkgs-docs/package-json/the-package-json-file
