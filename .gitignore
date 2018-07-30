@@ -2,3 +2,8 @@
 bower_components
 node_modules
 npm-debug.log
+*.swp
+*.pyc
+.vscode
+package-lock.json
+yarn.lock
