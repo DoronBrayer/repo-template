@@ -16,6 +16,7 @@
     "type": "git",
     "url": "https://github.com/DoronBrayer/repo-template.git"
   },
+  "homepage": "https://www.project-name.com",
   "keywords": [
     "repo",
     "project",
