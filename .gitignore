@@ -28,12 +28,6 @@ node_modules/
 *.exe
 *~
 
-# Ruby files
-.ruby-version
-.bundle
-vendor/cache
-vendor/bundle
-
 # OS or code-editor folders
 ._*
 .cache
