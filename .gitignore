@@ -17,11 +17,19 @@ vendor/bundle
 *.swo
 *.swp
 *.vi
-*.zip
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
 *.rar
+*.tar
+*.zip
 *.pyc
 *.svn
 *.git
+*.dll
+*.exe
 *~
 
 # OS or Editor folders
