@@ -21,9 +21,9 @@ Start by reflecting on what to include, and what to invite (in terms of contribu
 - **Table of contents**: If your CONTRIBUTING.md file is long, you might consider including a table of contents with links to different headings in your document. In github, each heading is given a URL by default, so you can link to that URL in the appropriate section of the Table of Contents for each heading. Do this in Markdown by wrapping the label/title in square brackets following by a parenthetical that includes the URL.</br>Example: `[Some text](https://www.some-url.com)`</br>Result: [Some text](https://www.some-url.com).
 - **Short links to important resources**:<br/>
    **Docs**: technical manuals describing the operation and use of the tool/product/technology<br/>
-   **License**: LICENSE file<br/>
-   **Todo/Roadmap**: TODO.md (or ROADMAP.md) file<br/>
-   **Bugs**: issue tracker / bug report tool<br/>
+   **License**: LICENSE file<br/>
+   **Todo/Roadmap**: TODO.md (or ROADMAP.md) file<br/>
+   **Bugs**: issue tracker / bug report tool<br/>
    **Comms**: forum, social network, real-time messaging, email<br/>
 - **Testing**: how to test the project, where the tests are located in your directories.
 - **Environment details**: how to set up your development environment. This might exist in the README.md depending on the project. If so, include a link.
