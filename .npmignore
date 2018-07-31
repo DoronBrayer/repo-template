@@ -9,6 +9,7 @@ CHANGELOG.md
 .hg/
 .git/
 build/
+dist/
 docs/
 documentation/
 example/
