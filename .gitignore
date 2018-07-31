@@ -1,3 +1,7 @@
+# Distribution/production folders
+build/
+dist/
+
 # Node.js dependencies
 package-lock.json
 yarn.lock
