@@ -36,10 +36,11 @@ Start by making the structure of your project clean and welcoming, with folder t
 Author a CONTRIBUTING.md file that fits your projects. Check out the models below in "Followup Resources" and incorporate the appropriate "To Include" items above.
 
 ### 3. Make Supporting Materials
-**Make a LICENSE**: Make a LICENSE.md file that you can reference in your CONTRIBUTING.md file, use the following links to generate and copy the appropriate text: [https://creativecommons.org/choose/](http://example.com)
-[http://choosealicense.com/](http://example.com)
+**Make a LICENSE**: Make a LICENSE.md file that you can reference in your CONTRIBUTING.md file, use the following links to generate and copy the appropriate text:<br/>
+[https://creativecommons.org/choose/](http://example.com)<br/>
+[http://choosealicense.com/](http://example.com)<br/>
 **Make a README** - make a README.md with a brief description of your project and some setup/installation details that you might link to in your CONTRIBUTING.md file.
-**Create a system for rewarding people**
+**Create a system for rewarding people**<br/>
 (OPTIONAL) Include a humans.txt file to give accolades to contributors. Store this in your root directory just like your CONTRIBUTING.md. On deployment, it will be available via your website at www.YOURWEBSITE.com/humans.txt.
 
 (OPTIONAL) [Get a DOI](http://example.com) for a your project and make [Contributor Badges](http://example.com) as a way to recognize contributors for their particular contributions.
