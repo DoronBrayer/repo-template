@@ -1,21 +1,68 @@
-# Folders
-node_modules/
+# Text files
+README.md
+TODO.md
+CHANGELOG.md
+
+# Directories
+.github/
 build/
 docs/
+documentation/
+example/
 examples/
+report/
+reports/
 test/
-.npm/
-.vscode/
-.github/
+tests/
+benchmark/
+benchmarks/
 
-# Dev files
-.appveyor.yml
+# Node.js dependencies
+.npmignore
+package-lock.json
+yarn.lock
+bower_components/
+node_modules/
+
+# Common junk files
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.pyc
+*.svn
+*.git
+*~
+
+# OS or code-editor folders
+._*
+.cache
 .DS_Store
-.editorconfig
-.eslintignore
-.eslintrc.js
-.travis.yml
+.idea
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject/
+Thumbs.db
+.vscode/
 
-# Misc
-logo.png
-logo.svg
+# Utilities
+.jshintrc
+.jshintignore
+.travis.yml
+.editorconfig
