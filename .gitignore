@@ -24,6 +24,7 @@ node_modules/
 *.pyc
 *.svn
 *.git
+*.bak
 *~
 
 # OS or code-editor folders
