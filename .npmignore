@@ -5,6 +5,9 @@ CHANGELOG.md
 
 # Folders
 .github/
+.svn/
+.hg/
+.git/
 build/
 docs/
 documentation/
@@ -44,6 +47,7 @@ node_modules/
 *.pyc
 *.svn
 *.git
+*.bak
 *~
 
 # OS or code-editor folders
