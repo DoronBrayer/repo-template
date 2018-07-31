@@ -17,7 +17,7 @@ You should try to build a draft of the CONTRIBUTING.md file with the core contri
 ### 1. Reflect / Plan
 Start by reflecting on what to include, and what to invite (in terms of contributions) in your CONTRIBUTING.md. See an [example of the Atom.io CONTRIBUTING.md file](http://example.com). Consider adding the following elements to your file.
 - **Welcome contributors to the project**: Admit that you are eager for contributions and so happy they found themselves here.
-- **Table of Contents**: If your CONTRIBUTING.md file is long, you might consider including a table of contents with links to different headings in your document. In github, each heading is given a URL by default, so you can link to that URL in the appropriate section of the Table of Contents for each heading. Do this in Markdown by wrapping the heading in `[]` and following with a parenthetical that includes the URL or header after `#` like [Reporting Bugs](http://example.com)(#reporting-bugs).
+- **Table of Contents**: If your CONTRIBUTING.md file is long, you might consider including a table of contents with links to different headings in your document. In github, each heading is given a URL by default, so you can link to that URL in the appropriate section of the Table of Contents for each heading. Do this in Markdown by wrapping the label/title in square brackets following by a parenthetical that includes the URL. EXAMPLE `[Label](http://example.com)` – RESULT [Label](http://example.com).
 - **Short Links to Important Resources**:<br/>
    **docs**: handbook / roadmap (you'll learn more about this in the roadmapping session)<br/>
    **bugs**: issue tracker / bug report tool<br/>
