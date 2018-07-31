@@ -1,0 +1,21 @@
+# Folders
+node_modules/
+build/
+docs/
+examples/
+test/
+.npm/
+.vscode/
+.github/
+
+# Dev files
+.appveyor.yml
+.DS_Store
+.editorconfig
+.eslintignore
+.eslintrc.js
+.travis.yml
+
+# Misc
+logo.png
+logo.svg
