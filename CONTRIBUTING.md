@@ -39,7 +39,7 @@ Author a CONTRIBUTING.md file that fits your projects. Check out the models belo
 **Make a LICENSE**: Make a LICENSE.md file that you can reference in your CONTRIBUTING.md file, use the following links to generate and copy the appropriate text:<br/>
 [https://creativecommons.org/choose/](http://example.com)<br/>
 [http://choosealicense.com/](http://example.com)<br/>
-**Make a README** - make a README.md with a brief description of your project and some setup/installation details that you might link to in your CONTRIBUTING.md file.
+**Make a README** - make a README.md with a brief description of your project and some setup/installation details that you might link to in your CONTRIBUTING.md file.<br/>
 **Create a system for rewarding people**<br/>
 (OPTIONAL) Include a humans.txt file to give accolades to contributors. Store this in your root directory just like your CONTRIBUTING.md. On deployment, it will be available via your website at www.YOURWEBSITE.com/humans.txt.
 
