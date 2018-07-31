@@ -1,11 +1,15 @@
 # Introduction
 A CONTRIBUTING.md file, in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension .md).
+
 This file is for:
 - Project owners - creators and maintiners of the file
 - Project contributors - users of the file who want to know items they're welcome to tackle, and tact they need in navigating the project/respecting those involved with the project
 - Project consumers - users who want to build off the project to create their own project
+
 CONTRIBUTING.md should be in your root directory, think of it as a anchor for your project, around which you will build community and keep things tidy. It complements other "all-caps" resources like your README.md (which introduces your community to the project, its purpose and basic installation requirements), or your LICENSE.md (which provides information on the reuse and permissions associated with the code).
+
 The CONTRIBUTING.md should be one of your first priorities in putting an open source/science project online to solicit contributions. If you have yet to define possible avenues of contribution, consider creating a CONTRIBUTING.md file with a "check back later, we will populate this soon" message, and the contact information of the project lead for follow-up.
+
 You should try to build a draft of the CONTRIBUTING.md file with the core contributors to your project to help them feel a shared sense of responsibility and to create the best possible guide for encouraging new contributors. It is sometimes best to practice building a markdown file in an offline program like Mou or an online one like Dilliger before you post it online.
 
 ## Steps to Complete
@@ -33,6 +37,7 @@ Templates: in this section of your file, you might also want to link to a bug re
 
 ### 2. Create a CONTRIBUTING.md file
 Start by making the structure of your project clean and welcoming, with folder titles that make sense, if you have several projects, consider adopting a template "project structure" that is consistent across projects, take a look at this [example](http://example.com).
+
 Author a CONTRIBUTING.md file that fits your projects. Check out the models below in "Followup Resources" and incorporate the appropriate "To Include" items above.
 
 ### 3. Make Supporting Materials
