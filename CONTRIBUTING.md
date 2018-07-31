@@ -6,7 +6,7 @@ This file is for:
 - Project contributors - users of the file who want to know items they're welcome to tackle, and tact they need in navigating the project/respecting those involved with the project
 - Project consumers - users who want to build off the project to create their own project
 
-CONTRIBUTING.md should be in your root directory, think of it as a anchor for your project, around which you will build community and keep things tidy. It complements other "all-caps" resources like your README.md (which introduces your community to the project, its purpose and basic installation requirements), or your LICENSE.md (which provides information on the reuse and permissions associated with the code).
+CONTRIBUTING.md should be in your root directory, think of it as an anchor for your project, around which you will build community and keep things tidy. It complements other "all-caps" resources like your README.md (which introduces your community to the project, its purpose and basic installation requirements), or your LICENSE.md (which provides information on the reuse and permissions associated with the code).
 
 The CONTRIBUTING.md should be one of your first priorities in putting an open source/science project online to solicit contributions. If you have yet to define possible avenues of contribution, consider creating a CONTRIBUTING.md file with a "check back later, we will populate this soon" message, and the contact information of the project lead for follow-up.
 
