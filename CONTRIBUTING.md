@@ -23,7 +23,7 @@ Start by reflecting on what to include, and what to invite (in terms of contribu
    **Docs**: technical manuals describing the operation and use of the tool/product/technology<br/>
    **License**: LICENSE file<br/>
    **Todo/Roadmap**: TODO.md (or ROADMAP.md) file<br/>
-   **Bugs**: issue tracker / bug report tool<br/>
+   **Bugs**: issue tracker / bug report tool<br/>
    **Comms**: forum, social network, real-time messaging, email<br/>
 - **Testing**: how to test the project, where the tests are located in your directories.
 - **Environment details**: how to set up your development environment. This might exist in the README.md depending on the project. If so, include a link.
