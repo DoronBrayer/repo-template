@@ -41,7 +41,7 @@ Start by making the structure of your project clean and welcoming, with folder t
 Author a CONTRIBUTING.md file that fits your projects. Check out the models below in "Followup Resources" and incorporate the appropriate "To Include" items above.
 
 ### 3. Make Supporting Materials
-**Make a LICENSE**: Make a LICENSE.md file that you can reference in your CONTRIBUTING.md file, use the following links to generate and copy the appropriate text:<br/>
+**Make a LICENSE** - Make a LICENSE.md file that you can reference in your CONTRIBUTING.md file, use the following links to generate and copy the appropriate text:<br/>
 [https://creativecommons.org/choose/](http://example.com)<br/>
 [http://choosealicense.com/](http://example.com)
 
