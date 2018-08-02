@@ -1,6 +1,6 @@
 # Major companies/institutions using {PROJECT-NAME}
 
-If you also want to get listed, please [write to us](AUTHORS) with subject "Add entry in USERS list" including a relevant explanation.
+If you also want to get listed, please [write to us](TEAM.md) with subject "Add entry in USERS list" including a relevant explanation.
 
 The following companies/institutions may or may not be using {PROJECT-NAME} on their main activities/services, but they're definitely using it somewhere in their organization.
 
