@@ -17,7 +17,6 @@ You should try to build a draft of the CONTRIBUTING.md file with the core contri
 ### Explain what kinds of contributions you are looking for
  Writing//improving documentation, performing code reviews, managing bug reports and feature requests, etc. Basicly, anything that makes your work pleasant.
 ### Short links to important resources
-   **Code of conduct**: CODE_OF_CONDUCT.md<br/>
    **Docs**: technical manuals describing the operation and use of the tool/product/technology<br/>
    **Todo/Roadmap**: let them know about [this section](https://github.com/DoronBrayer/repo-template/projects)<br/>
    **Bugs**: issue tracker / bug report tool<br/>
