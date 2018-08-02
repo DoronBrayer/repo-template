@@ -8,4 +8,4 @@ The following companies/institutions may or may not be using {PROJECT-NAME} on t
 - [{PROJECT-NAME}](http://example.com)
 - [{INSTITUTION-NAME}](http://example.com)
 - [{GROUP-NAME}](http://example.com)
-- [{COMPANY-NAME](http://example.com)
+- [{COMPANY-NAME-02}](http://example.com)
