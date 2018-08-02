@@ -29,6 +29,7 @@ node_modules/
 *.svn
 *.git
 *.bak
+*.msi
 *~
 
 # OS or code-editor folders
