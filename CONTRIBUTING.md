@@ -36,8 +36,6 @@ Sometimes it is helpful to provide some guidelines for the types of bugs contrib
 enhancements are features that you might like to suggest to a project, but aren't necessarily bugs/problems with the existing code; there is a "label" for enhancments in Github's Issues (where you report bugs), so you can tag issues as "enhancement," and thereby allow contributors to prioritize issues/bugs reported to the project. See [Atom's example section](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#suggesting-enhancements).
 ### Styleguide / Coding conventions
 [See Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#styleguides).
-### Code of conduct
-You can make this part of CONTRIBUTING.md as [Atom did](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#code-of-conduct) to set the tone for contributions. You can also make this a separate Markdown file and link to it in CONTRIBUTING.md. You can also extend this section to link to your LICENSE.md or any details for project consumers on permissions and license details you have established for building on your work.
 ### Recognition model
 provide a pre-emptive "thank you" for contributing and list any recognition contributors might receive for participating in your project.
 ### Who is involved?
@@ -48,5 +46,5 @@ a nice extension to the previous section, with links to good comms channels for 
 how to test the project, where the tests are located in your directories.
 ### [OPTIONAL] Environment details
 how to set up your development environment. This might exist in the README.md depending on the project. If so, include a link.
-### (OPTIONAL) Create a system for rewarding people
+### [OPTIONAL] Create a system for rewarding people
 Include a humans.txt file to give accolades to contributors. Store this in your root directory just like your CONTRIBUTING.md. On deployment, it will be available via your website at www.YOURWEBSITE.com/humans.txt.
