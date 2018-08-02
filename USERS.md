@@ -5,7 +5,7 @@ If you also want to get listed, please [write to us](AUTHORS) with subject "Add 
 The following companies/institutions may or may not be using {PROJECT-NAME} on their main activities/services, but they're definitely using it somewhere in their organization.
 
 - [{COMPANY-NAME}](http://example.com)
-- [{POJECT-NAME}](http://example.com)
+- [{PROJECT-NAME}](http://example.com)
 - [{INSTITUTION-NAME}](http://example.com)
 - [{GROUP-NAME}](http://example.com)
 - [{COMPANY-NAME](http://example.com)
