@@ -30,6 +30,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## 1.0.0 - 21 Apr 2018
 ### Added
-- Code of conduct: CODE_OF_CONDUCT.md in root
-- Favicon: favicon.png in root
-- List of authors: AUTHORS in root
+- Something
+- Something
+- Something
