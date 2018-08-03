@@ -30,6 +30,8 @@ node_modules/
 *.git
 *.bak
 *.msi
+*.tmp
+*.lock
 *~
 
 # OS or code-editor folders
@@ -46,3 +48,9 @@ node_modules/
 nbproject/
 Thumbs.db
 .vscode/
+
+# Utilities
+.jshintrc
+.jshintignore
+.travis.yml
+.editorconfig
