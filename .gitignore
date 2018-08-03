@@ -48,6 +48,8 @@ node_modules/
 nbproject/
 Thumbs.db
 .vscode/
+log/
+logs/
 
 # Utilities
 .jshintrc
