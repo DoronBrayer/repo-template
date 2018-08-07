@@ -1,26 +1,29 @@
 {
-  "name": "my-awesome-package",
-  "version": "1.0.0",
-  "description": "A short description of my awesome package.",
-  "keywords": ["github", "repo", "repository", "project", "template", "structure"],
-  "license": "MIT",
-  "homepage": "https://your-package.org",
-  "bugs": "https://github.com/username/repo/issues",
-  "repository": { "type": "git", "url": "https://github.com/username/repo.git" },
-  "author": "Your Name <you@example.com> (http://your-website.com)",
-  "contributors": [
-    "Your Friend <friend@example.com> (http://friends-website.com)",
-    "Other Friend <other@example.com> (http://other-website.com)"
-  ],
-  "main": "index.js",
-  "scripts": {},
-  "dependencies": {
-    "jquery": "^3.2.1",
-    "motion-ui": "~1.2.2",
-  },
-  "devDependencies": {
-    "gulp": "^4.0.0",
-    "webpack": "^2.6.1",
-  },
-  "private": true
+	"name": "my-awesome-package",
+	"version": "1.0.0",
+	"description": "A short description of my awesome package.",
+	"keywords": ["github", "repo", "repository", "project", "template", "structure"],
+	"license": "MIT",
+	"homepage": "https://your-package.org",
+	"bugs": "https://github.com/username/repo/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/username/repo.git"
+	},
+	"author": "Your Name <you@example.com> (http://your-website.com)",
+	"contributors": [
+		"Your Friend <friend@example.com> (http://friends-website.com)",
+		"Other Friend <other@example.com> (http://other-website.com)"
+	],
+	"main": "index.js",
+	"scripts": {},
+	"dependencies": {
+		"jquery": "^3.2.1",
+		"motion-ui": "~1.2.2"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.0",
+		"webpack": "^2.6.1"
+	},
+	"private": true
 }
