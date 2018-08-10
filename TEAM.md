@@ -1,6 +1,6 @@
 # Team members
 
-John Doe (founder of the project) · [Email](mailto:john.doe@example.com) · [GitHub](https://github.com/JohnDoe1822) · [Twitter](https://twitter.com/JohnDoe1822) · [LinkedIn](https://www.linkedin.com/in/JohnDoe1822)
+John Doe - founder of the project · [Email](mailto:john.doe@example.com) · [GitHub](https://github.com/JohnDoe1822) · [Twitter](https://twitter.com/JohnDoe1822) · [LinkedIn](https://www.linkedin.com/in/JohnDoe1822)
 
 Bruce Wayne · [Email](mailto:bruce.wayne@WayneEnterprises.com) · [GitHub](https://github.com/BruceWayne1989) · [Twitter](https://twitter.com/BruceWayne1989) · [LinkedIn](https://www.linkedin.com/in/BruceWayne1989)
 
