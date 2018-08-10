@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <title>
+      {{#if title}}
+        {{title}}
+      {{else}}
+        Base Page Title
+      {{/if}}
+    </title>
+    <link rel="stylesheet" href="main.css">
+    {{#> head-block}}
+      {{!-- Custom <head> content per page could be added. --}}
+    {{/head-block}}
+  </head>
+  <body>
+    {{#> hero-block}}
+      {{!-- Hero content goes here. --}}
+    {{/hero-block}}
+
+    {{#> scripts-block}}
+      {{!-- Custom scripts per page can be added. --}}
+    {{/scripts-block}}
+  </body>
+</html>
