@@ -1,0 +1,5 @@
+The current directory contains third-party libraries that are not available as an npm package.
+Perhaps it’ll be a CSS framework, maybe it will be a JavaScript plugin, or maybe it will be a collection of SVG icons. 
+Whatever the case, those scripts or assets were not created by you or your teammates.
+
+Do not place npm packages (a.k.a. node modules) in that folder!
