@@ -4,9 +4,9 @@
     </a>
 </div>
 <h3 align="center">Project name [optional]</h3>
-<h4 align="center">A description about the project<br>
-    <a href="https://getbootstrap.com/docs/4.1/" rel="nofollow"><strong>Explore {PROJECT-NAME} docs »</strong></a>
-</h4>
+<p align="center"><strong>A description about the project<br>
+    <a href="https://getbootstrap.com/docs/4.1/" rel="nofollow">Explore {PROJECT-NAME} docs »</strong></a>
+</p>
 <p align="center">
     <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
     ·
