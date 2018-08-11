@@ -19,15 +19,17 @@
     <a href="https://blog.getbootstrap.com/">Blog</a>
 </p>
 <br>
-## Table of contents
+<h2>Table of contents</h2>
 <br>
-- [Quick start](http://example.com)
-- [Status](http://example.com)
-- [What's included](http://example.com)
-- [Bugs and feature requests](http://example.com)
-- [Documentation](http://example.com)
-- [Contributing](http://example.com)
-- [Community](http://example.com)
-- [Versioning](http://example.com)
-- [Creators](http://example.com)
-- [Copyright and license](http://example.com)
+<ul>
+    <li><a href="#quick-start">Quick start</a></li>
+    <li><a href="#status">Status</a></li>
+    <li><a href="#whats-included">What's included</a></li>
+    <li><a href="#bugs-and-feature-requests">Bugs and feature requests</a></li>
+    <li><a href="#documentation">Documentation</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#community">Community</a></li>
+    <li><a href="#versioning">Versioning</a></li>
+    <li><a href="#creators">Creators</a></li>
+    <li><a href="#copyright-and-license">Copyright and license</a></li>
+</ul>
