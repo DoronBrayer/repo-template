@@ -8,15 +8,11 @@
     <a href="https://getbootstrap.com/docs/4.1/" rel="nofollow">Explore {PROJECT-NAME} docs »</strong></a>
 </p>
 <p align="center">
-    <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+    <a href="CODE_OF_CONDUCT.md">Code of conduct</a>
     ·
-    <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="CHANGELOG.md">Chagelog</a>
     ·
-    <a href="https://themes.getbootstrap.com/">Themes</a>
-    ·
-    <a href="https://jobs.getbootstrap.com/">Jobs</a>
-    ·
-    <a href="https://blog.getbootstrap.com/">Blog</a>
+    <a href="zzz.md">zzzz</a>
 </p>
 <br>
 <h2>Table of contents</h2>
