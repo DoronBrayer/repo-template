@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">Project name [optional]</h3>
 <p align="center"><strong>A description about the project<br>
-    <a href="https://getbootstrap.com/docs/4.1/" rel="nofollow">Explore {PROJECT-NAME} docs »</strong></a>
+    <a href="https://zzzz" rel="nofollow">Explore {PROJECT-NAME} docs »</strong></a>
 </p>
 <p align="center">
     <a href="CODE_OF_CONDUCT.md">Code of conduct</a>
@@ -24,13 +24,13 @@
 <h2>Quick start</h2>
 <p>For your convenience, several options are available:</p>
 <ul>
-    <li><a href="https://github.com/twbs/bootstrap/archive/v4.1.3.zip">Download the latest release.</a></li>
-    <li>Clone the repo: <code>git clone https://github.com/twbs/bootstrap.git</code></li>
-    <li>Install with <a href="https://www.npmjs.com/" rel="nofollow">npm</a>: <code>npm install bootstrap</code></li>
-    <li>Install with <a href="https://yarnpkg.com/" rel="nofollow">yarn</a>: <code>yarn add bootstrap@4.1.3</code></li>
+    <li><a href="http://example.com">Download the latest release.</a></li>
+    <li>Clone the repo: <code>git clone https://github.com/USERNAME/REPOSITORY-NAME</code></li>
+    <li>Install with <a href="https://www.npmjs.com/" rel="nofollow">npm</a>: <code>npm install <package-name></code></li>
+    <li>Install with <a href="https://yarnpkg.com/" rel="nofollow">yarn</a>: <code>yarn add <package-name></code></li>
 </ul>
 <h2>zzz</h2>
-<p>sadasdasd</p>
+<p>zzzzzzzzzzzzzz</p>
 <h2>License and copyright</h2>
 <p>This project is licensed under the terms of the <a href="LICENSE">MIT license.</a>
 <br>
