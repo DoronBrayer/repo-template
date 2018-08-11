@@ -4,9 +4,7 @@
         <img src="https://dummyimage.com/220x110/fff/28c87d.png&text=%7BLOGO%7D" alt="project-logo" />
     </a>
 </h1>
-<h2 align="center">Project name</h2>
-<h3 align="center">A description about the project</h3>
-
+<h2 align="center">A description about the project</h2>
 <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.
     <br>
