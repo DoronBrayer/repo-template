@@ -18,15 +18,8 @@
 <h2>Table of contents</h2>
 <ul>
     <li><a href="#quick-start">Quick start</a></li>
-    <li><a href="#status">Status</a></li>
-    <li><a href="#whats-included">What's included</a></li>
-    <li><a href="#bugs-and-feature-requests">Bugs and feature requests</a></li>
-    <li><a href="#documentation">Documentation</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#community">Community</a></li>
-    <li><a href="#versioning">Versioning</a></li>
-    <li><a href="#creators">Creators</a></li>
-    <li><a href="#copyright-and-license">Copyright and license</a></li>
+    <li><a href="#license-and-copyright">Copyright and license</a></li>
 </ul>
 <h2>Quick start</h2>
 <p>For your convenience, several options are available:</p>
@@ -36,3 +29,9 @@
     <li>Install with <a href="https://www.npmjs.com/" rel="nofollow">npm</a>: <code>npm install bootstrap</code></li>
     <li>Install with <a href="https://yarnpkg.com/" rel="nofollow">yarn</a>: <code>yarn add bootstrap@4.1.3</code></li>
 </ul>
+<h2>zzz</h2>
+<p>sadasdasd</p>
+<h2>License and copyright</h2>
+<p>This project is licensed under the terms of the <a href="LICENSE.md">MIT license.</a></p>
+<p>Code, graphics and documentation copyright 2018–present the <a href="TEAM.md">{PROJECT-NAME} team.</a></p>
+
