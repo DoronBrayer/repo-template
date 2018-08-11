@@ -19,7 +19,7 @@
 <ul>
     <li><a href="#quick-start">Quick start</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license-and-copyright">License and copyright/a></li>
+    <li><a href="#license-and-copyright">License and copyright</a></li>
 </ul>
 <h2>Quick start</h2>
 <p>For your convenience, several options are available:</p>
