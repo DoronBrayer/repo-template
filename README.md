@@ -29,7 +29,7 @@
     <li>Install with <a href="https://www.npmjs.com/" rel="nofollow">npm</a>: <code>npm install <package-name></code></li>
     <li>Install with <a href="https://yarnpkg.com/" rel="nofollow">yarn</a>: <code>yarn add <package-name></code></li>
 </ul>
-<h2>zzz</h2>
+<h2>Contributing</h2>
 <p>zzzzzzzzzzzzzz</p>
 <h2>License and copyright</h2>
 <p>This project is licensed under the terms of the <a href="LICENSE">MIT license.</a>
