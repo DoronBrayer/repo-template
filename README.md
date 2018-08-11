@@ -3,7 +3,7 @@
         <img src="https://dummyimage.com/220x110/fff/28c87d.png&text=%7BLOGO%7D" alt="project-logo" />
     </a>
 </div>
-<h3 align="center">Project name</h3>
+<h3 align="center">Project name [optional]</h3>
 <h4 align="center">A description about the project<br>
     <a href="https://getbootstrap.com/docs/4.1/" rel="nofollow"><strong>Explore {PROJECT-NAME} docs »</strong></a>
 </h4>
