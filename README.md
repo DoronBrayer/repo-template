@@ -34,6 +34,6 @@
 <h2>License and copyright</h2>
 <p>This project is licensed under the terms of the <a href="LICENSE">MIT license.</a>
 <br>
-© 2018–present {CREATOR-NANE} and the <a href="TEAM.md">{PROJECT-NAME} team.</a>
+© 2018–present {CREATOR-NANE} and the <a href="TEAM.md">{PROJECT-NAME} team</a>.
 </p>
 
