@@ -32,6 +32,8 @@
 <h2>zzz</h2>
 <p>sadasdasd</p>
 <h2>License and copyright</h2>
-<p>This project is licensed under the terms of the <a href="LICENSE.md">MIT license.</a></p>
-<p>Code, graphics and documentation copyright 2018–present the <a href="TEAM.md">{PROJECT-NAME} team.</a></p>
+<p>This project is licensed under the terms of the <a href="LICENSE.md">MIT license.</a>
+<br>
+Code, graphics and documentation copyright 2018–present the <a href="TEAM">{PROJECT-NAME} team.</a>
+</p>
 
