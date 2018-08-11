@@ -20,7 +20,6 @@
 </p>
 <br>
 <h2>Table of contents</h2>
-<br>
 <ul>
     <li><a href="#quick-start">Quick start</a></li>
     <li><a href="#status">Status</a></li>
