@@ -12,7 +12,9 @@
     ·
     <a href="CHANGELOG.md">Chagelog</a>
     ·
-    <a href="zzz.md">zzzz</a>
+    <a href="ROADMAP.md">Roadmap</a>
+    ·
+    <a href="issues">Issues</a>
 </p>
 <br>
 <h2>Table of contents</h2>
