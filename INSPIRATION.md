@@ -5,5 +5,5 @@
 - **[Another article's headline](http://example.com)** by Jane Doe, {WEBSITE-NAME}
 
 ## Projects / Repositories
-- **[Project (repo) name](https://github.com/zurb/foundation-zurb-template)** by {USERNAME}
-- **[Project (repo) name](https://github.com/zurb/foundation-zurb-template)** by {USERNAME}
+- **[Project/Repo name](https://github.com/zurb/foundation-zurb-template)** by {USERNAME}
+- **[Project/Repo name](https://github.com/zurb/foundation-zurb-template)** by {USERNAME}
