@@ -1,6 +1,6 @@
 The current directory contains third-party libraries that are not available as an npm package.
-Perhaps it’ll be a CSS framework, maybe it will be a JavaScript plugin, or maybe it will be a collection of SVG icons. 
-Whatever the case, those scripts or assets were not created by you or your teammates, hence the name 'vendor'.
+Perhaps it’ll be a CSS framework, perhaps it’ll be a JavaScript plugin, or perhaps it’ll be a collection of icons. 
+Whatever the case, those scripts/assets were NOT created by you (nor by your teammates), hence the name 'vendor'.
 
 Do NOT place npm packages (a.k.a. node modules) in that directory!
 npm packages should be placed ONLY in 'node_modules' directory!
